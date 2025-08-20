@@ -1,5 +1,4 @@
 # SpringBoot-CRUD-Service
-# Spring Boot Student Management API
 
 A **Spring Boot RESTful API** for managing students, authentication, and greeting endpoints.  
 This project demonstrates **CRUD operations**, **REST best practices**, and **clean code structure** using Spring Boot.
