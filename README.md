@@ -23,6 +23,10 @@ This project demonstrates how to build a basic backend service with **CRUD opera
 ---
 
 ## 📌 API Endpoints
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/65e2c1c4-26c5-4089-b7f8-9966aaafcca5" />
+<img width="1920" height="1020" alt="SB1 2" src="https://github.com/user-attachments/assets/f8c5bac4-3338-4655-ad0e-2e6cc38353eb" />
+<img width="1920" height="1020" alt="SB1 3" src="https://github.com/user-attachments/assets/1480b6f0-23aa-442a-8ed6-d9ec4cab2bf3" />
+
 
 ### Get All Students
 
