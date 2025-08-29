@@ -3,7 +3,6 @@
 A **Spring Boot CRUD REST API** for managing students, authentication, and greeting endpoints.  
 This project demonstrates how to build a basic backend service with **CRUD operations**, **REST best practices**, and **clean code structure** using Spring Boot.
 
-
 ---
 
 
